@@ -1,110 +1,45 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+Sobre o Projeto
+Projeto desenvolvido como desafio prático da DIO com o objetivo de compreender o processo de registro, autenticação e autorização de aplicações utilizando a API do Trello por meio da linguagem Python.
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+A proposta consistiu em criar uma integração capaz de consumir recursos da plataforma de forma segura, utilizando API Key e Token de acesso.
 
-</p>
+Objetivos
+Entender o funcionamento da API do Trello;
+Registrar uma aplicação na plataforma;
+Gerar e utilizar credenciais de acesso;
+Realizar requisições autenticadas com Python;
+Aplicar conceitos de integração entre sistemas.
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+Tecnologias Utilizadas
+Python 3
+Requests
+Trello API
+Git e GitHub
 
-<br/>
-<br/>
+Etapas do Desenvolvimento
+Registro da aplicação no Trello;
+Geração da API Key e Token;
+Configuração do ambiente Python;
+Implementação das requisições autenticadas;
+Testes de acesso aos recursos da API.
 
-## 💻 Sobre o Projeto
+Principais Aprendizados
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Durante o desenvolvimento deste projeto, foram praticados conceitos importantes como:
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Consumo de APIs REST;
+Autenticação e autorização;
+Manipulação de requisições HTTP;
+Integração entre aplicações;
+Boas práticas de organização de projetos.
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Desafios Encontrados
+Alguns dos principais desafios foram:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Configuração correta das permissões da aplicação;
+Tratamento de erros de autenticação (401 Unauthorized);
+Validação das credenciais de acesso.
 
-- _Exemplo_:
-
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
-
-- [Outros pré-requisitos, se aplicável]
-
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
-
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
-
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
-
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+Autor
+Projeto desenvolvido por Pedro Machado como parte da formação da DIO, aplicando conceitos de integração com APIs e autenticação de aplicações.
+Esse tamanho costuma ser o "ponto ideal" para projetos da DIO: nem simples demais, nem com texto excessivo que ninguém lê. Ele passa a sensação de documentação real de um desenvolvedor júnior/pleno organizando um projeto para portfólio.
